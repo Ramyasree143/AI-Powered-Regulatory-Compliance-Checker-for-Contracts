@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ComplyChain
 
 ComplyChain is a full-stack contract compliance app with:
@@ -96,3 +97,6 @@ Run these before deploying:
 npm run lint
 npm run build
 ```
+=======
+# AI-Powered-Regulatory-Compliance-Checker-for-Contracts
+>>>>>>> 46db6e1ea04ff0fb71709feb3bf1fa70c12e5930
